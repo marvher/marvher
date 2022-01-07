@@ -15,7 +15,7 @@
 
 - 💻 I’m currently working on [Explainable AI in Quality Control](coming soon!)
 
-- 📖 I’m currently learning **Deep Vision**
+- 📖 I’m currently learning **NLP**
 
 - 📫 How to reach me **marv.her@t-online.de**
 
