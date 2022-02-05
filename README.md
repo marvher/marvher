@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Marvin 👋</h1>
 <center>
-<h3 align="center">Industrial Eng. & Manag. Student @ FAU and Data Scientist @ Siemens (Working Student) </h3>
+<h3 align="center">Industrial Eng. & Manag. Student @ FAU and Data Scientist @ Siemens UK (Intern) </h3>
 </center>
 
 <p align="center">
