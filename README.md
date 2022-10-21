@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvher" alt="marvher" /> </p>
 
-- 💻 I’m currently working on [Neuro-Symbolic AI in Closed Loop Manufacturing](coming soon!)
+- 💻 I’m currently working on [Neuro-Symbolic AI in Closed Loop Manufacturing]
 
-- 📖 I’m currently learning **Causal ML & GNN**
+- 📖 I’m currently learning **Causal ML & Neuro-Symbolic AI**
 
 - 📫 How to reach me **marv.her@t-online.de**
 
