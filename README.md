@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Marvin 👋</h1>
 <center>
-<h3 align="center">Industrial Eng. & Manag. Student @ FAU and Master Thesis @ Siemens AG  </h3>
+<h3 align="center">Data-driven Process Engineer @ Siemens AG | M.Sc. Industrial Eng. & Manag. Student @ FAU</h3>
 </center>
 
 <p align="center">
