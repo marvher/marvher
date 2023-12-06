@@ -13,10 +13,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvher" alt="marvher" /> </p>
 
-- 💻 I’m currently working on [Neuro-Symbolic AI in Closed Loop Manufacturing]
+- 💻 I’m currently working on [Causal ML in Closed Loop Manufacturing]
 
 - 📖 I’m currently learning **Causal ML & Neuro-Symbolic AI**
 
 - 📫 How to reach me **marv.her@t-online.de**
 
-- ⚡ I love **Matcha and Taekwondo  :)**
+- ⚡️ I love **Matcha and Taekwondo  :)**
